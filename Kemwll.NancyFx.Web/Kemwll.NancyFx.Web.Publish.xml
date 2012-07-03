@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="\\10.10.5.30\Websites\Kemwell-Nancy" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="True" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="False" />
+  <publishProfile publishUrl="\\10.10.5.30\Websites\Kemwell-Nancy" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Kemwell-Nancy" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/Newtonsoft.Json.dll" publishTime="01/30/2012 14:01:20" />
+    <file relUrl="bin/NLog.dll" publishTime="01/30/2012 14:01:18" />
+    <file relUrl="bin/Nancy.Hosting.Aspnet.dll" publishTime="06/21/2011 17:39:42" />
+    <file relUrl="bin/Kemwll.NancyFx.Web.pdb" publishTime="07/03/2012 15:09:33" />
+    <file relUrl="bin/Kemwll.NancyFx.Web.dll" publishTime="07/03/2012 15:09:33" />
+    <file relUrl="Web.config" publishTime="07/03/2012 15:11:34" />
+    <file relUrl="bin/Raven.Abstractions.dll" publishTime="01/30/2012 15:35:50" />
+    <file relUrl="bin/AsyncCtpLibrary.dll" publishTime="01/30/2012 14:01:18" />
+    <file relUrl="bin/Nancy.dll" publishTime="06/21/2011 17:39:42" />
+    <file relUrl="Home.aspx" publishTime="07/03/2012 15:05:52" />
+    <file relUrl="bin/Raven.Client.Lightweight.dll" publishTime="01/30/2012 15:35:58" />
+  </publishProfile>
+</publishData>

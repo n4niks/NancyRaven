@@ -1,0 +1,24 @@
+D:\SVN Repositories\VM Network\TCG\branches\Kemwll.NancyFx.Web\Kemwll.NancyFx.Web\Kemwll.NancyFx.Web\bin\Kemwll.NancyFx.Web.dll
+D:\SVN Repositories\VM Network\TCG\branches\Kemwll.NancyFx.Web\Kemwll.NancyFx.Web\Kemwll.NancyFx.Web\bin\Kemwll.NancyFx.Web.pdb
+D:\SVN Repositories\VM Network\TCG\branches\Kemwll.NancyFx.Web\Kemwll.NancyFx.Web\Kemwll.NancyFx.Web\bin\Nancy.dll
+D:\SVN Repositories\VM Network\TCG\branches\Kemwll.NancyFx.Web\Kemwll.NancyFx.Web\Kemwll.NancyFx.Web\bin\Nancy.Hosting.Aspnet.dll
+D:\SVN Repositories\VM Network\TCG\branches\Kemwll.NancyFx.Web\Kemwll.NancyFx.Web\Kemwll.NancyFx.Web\bin\Newtonsoft.Json.dll
+D:\SVN Repositories\VM Network\TCG\branches\Kemwll.NancyFx.Web\Kemwll.NancyFx.Web\Kemwll.NancyFx.Web\bin\Raven.Abstractions.dll
+D:\SVN Repositories\VM Network\TCG\branches\Kemwll.NancyFx.Web\Kemwll.NancyFx.Web\Kemwll.NancyFx.Web\bin\Raven.Client.Lightweight.dll
+D:\SVN Repositories\VM Network\TCG\branches\Kemwll.NancyFx.Web\Kemwll.NancyFx.Web\Kemwll.NancyFx.Web\bin\NLog.dll
+D:\SVN Repositories\VM Network\TCG\branches\Kemwll.NancyFx.Web\Kemwll.NancyFx.Web\Kemwll.NancyFx.Web\bin\AsyncCtpLibrary.dll
+D:\SVN Repositories\VM Network\TCG\branches\Kemwll.NancyFx.Web\Kemwll.NancyFx.Web\Kemwll.NancyFx.Web\obj\Debug\ResolveAssemblyReference.cache
+D:\SVN Repositories\VM Network\TCG\branches\Kemwll.NancyFx.Web\Kemwll.NancyFx.Web\Kemwll.NancyFx.Web\obj\Debug\Kemwll.NancyFx.Web.dll
+D:\SVN Repositories\VM Network\TCG\branches\Kemwll.NancyFx.Web\Kemwll.NancyFx.Web\Kemwll.NancyFx.Web\obj\Debug\Kemwll.NancyFx.Web.pdb
+D:\Kemwll.NancyFx.Web\Kemwll.NancyFx.Web\bin\Kemwll.NancyFx.Web.dll
+D:\Kemwll.NancyFx.Web\Kemwll.NancyFx.Web\bin\Kemwll.NancyFx.Web.pdb
+D:\Kemwll.NancyFx.Web\Kemwll.NancyFx.Web\bin\Nancy.dll
+D:\Kemwll.NancyFx.Web\Kemwll.NancyFx.Web\bin\Nancy.Hosting.Aspnet.dll
+D:\Kemwll.NancyFx.Web\Kemwll.NancyFx.Web\bin\Newtonsoft.Json.dll
+D:\Kemwll.NancyFx.Web\Kemwll.NancyFx.Web\bin\Raven.Abstractions.dll
+D:\Kemwll.NancyFx.Web\Kemwll.NancyFx.Web\bin\Raven.Client.Lightweight.dll
+D:\Kemwll.NancyFx.Web\Kemwll.NancyFx.Web\bin\NLog.dll
+D:\Kemwll.NancyFx.Web\Kemwll.NancyFx.Web\bin\AsyncCtpLibrary.dll
+D:\Kemwll.NancyFx.Web\Kemwll.NancyFx.Web\obj\Debug\ResolveAssemblyReference.cache
+D:\Kemwll.NancyFx.Web\Kemwll.NancyFx.Web\obj\Debug\Kemwll.NancyFx.Web.dll
+D:\Kemwll.NancyFx.Web\Kemwll.NancyFx.Web\obj\Debug\Kemwll.NancyFx.Web.pdb
